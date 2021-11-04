@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Joko Purnomo, 18th YO
+- 👋 Hi, I’m Joko Purnomo, 19th YO
 - 👀 I’m interested in Web Developer and Graphic Designer
 - 🌱 I’m currently learning Programming and Design
 - 💞️ I’m looking to collaborate on PT. Janish Lintas Data

@@ -7,8 +7,6 @@
 I'm a passionate developer who loves to learn and explore new technologies. I'm dedicated to honing my skills and sharing knowledge with the community.
 
 - 🌱 I’m currently learning Golang, Python, Laravel, Next.JS and Etc.
-- 🔭 I’m working on PT. SomaTech
-- ⚡ Fun fact: I like playing a games for example MLBB and HOK.
 
 ## 🛠️ My Skills
 - **Languages:** PHP, Golang, Python, Javascript
